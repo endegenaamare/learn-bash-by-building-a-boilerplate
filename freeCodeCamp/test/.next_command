@@ -710,3 +710,11 @@ echo goodbye terminal
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"4d3cbcb2de60af58d11538bf993995a6" + JSON.stringify(process.env) + "4d3cbcb2de60af58d11538bf993995a6"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"ab495fb53bfa" + JSON.stringify(process.env) + "ab495fb53bfa"'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
