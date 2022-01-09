@@ -538,3 +538,15 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+file
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeRoad.svg client/assets/i
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch CodeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeRoad.svg client/assets/icons/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
