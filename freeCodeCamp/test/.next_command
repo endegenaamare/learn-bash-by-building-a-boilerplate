@@ -322,3 +322,15 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm roboto.font roboto.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv roboto.font roboto.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch roboto.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv roboto.font roboto.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
