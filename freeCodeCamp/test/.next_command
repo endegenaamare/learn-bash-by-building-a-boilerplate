@@ -421,3 +421,9 @@ history -a
 find -name index.html
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name *.jp*
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name styles.css
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
