@@ -202,3 +202,12 @@ history -a
 touch header.png
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch footer.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm footer.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
