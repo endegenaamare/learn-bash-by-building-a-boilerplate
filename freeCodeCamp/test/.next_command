@@ -550,3 +550,15 @@ history -a
 mv CodeRoad.svg client/assets/icons/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo client/assets/i
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm client/assets/i
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv freeCodeCamp.svg client/assets/icons/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
